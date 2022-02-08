@@ -34,7 +34,7 @@ Note: Shader presets are using relative path. You can then unzip this pack to an
 <p><br />or</p>
 <p><br />Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console-Night</p>
 <h3><br />-----------------<br /><strong>Beginning Users</strong></h3>
-<p>If this is your first use of Mega Bezel shaders, here are the complete instructions:<br /><br />1 - You must have Retroarch 1.9.8 or later (you will not be able to load in previous versions).<br />2 - You need to have Slang shaders previously installed in your Retroarch. Download them from Retroarch's update menu.</p>
+<p>If this is your first use of Mega Bezel shaders, here are the complete instructions:<br /><br />1 - You must have Retroarch 1.9.8 or later (you will not be able to load in previous versions).<br />2 - You will need Slang shaders previously installed in your Retroarch. Download them from Retroarch's update menu.</p>
 <p><br /><strong>NOTE</strong>: You will only be able to see the Slang shaders in the Retroarch download list if video drivers is set to Vulkan. It may be necessary to save changes and restart your Retroarch.</p>
 <p><br />3 - You will need Shader Mega Bezel pack. Find the links on the author's page at the Libretro forum: <a href="https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1">https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</a></p>
 <p><br />4 - If you have previous versions of Mega Bezel installed, you need to delete the old shader pack. Do not overwrite files, this can cause crashes.</p>
