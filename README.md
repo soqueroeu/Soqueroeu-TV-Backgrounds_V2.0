@@ -23,7 +23,7 @@ These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Sta
 <h3><br><strong>Beginning Users</strong></h3><p>If this is your first use of Mega Bezel shaders, here are the complete instructions:
 <p>**1** - You must have Retroarch 1.9.8 or later (you will not be able to load in previous versions)</p>
 <p>**2** - You will need Slang shaders previously installed in your Retroarch. Download them from Retroarch's update menu.</p><p><strong>NOTE</strong>: You will only be able to see the Slang Shaders in the Retroarch download list if video drivers is set to Vulkan. It may be necessary to save changes and restart your Retroarch.</p>
-<p>**3** - You will need Shader Mega Bezel pack. Find the links on the [HSM Mega Bezel Page](https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</p>
+<p>**3** - You will need Shader Mega Bezel pack. Find the links on the [MegaBezel Libretro page](https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1 "MegaBezel Libretro page")</p>
 
 <p> **4** - If you have previous versions of Mega Bezel installed, you need to delete the old shader pack. Do not overwrite files, this can cause crashes.</p>
 <p>**5** - After downloading Mega Bezel pack, see inside the .zip there is a folder called bezel. Copy this folder into the following directory: *Retroarch/shaders/shaders_slang*.</p>
