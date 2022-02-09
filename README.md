@@ -47,13 +47,15 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 <p>3 - You will need Shader Mega Bezel pack. Find the links on the author's page at the Libretro forum: <a href="https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1">https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</a></p>
 <p>4 - If you have previous versions of Mega Bezel installed, you need to delete the old shader pack. Do not overwrite files, this can cause crashes.</p>
 <p>5 - After downloading Mega Bezel pack, see inside the .zip there is a folder called bezel. Copy this folder into the following directory: Retroarch/shaders/shaders_slang.</p>
-<p>6 &ndash; After downloading the TV Backgrounds pack, inside the .zip you will see a folder called Soqueroeu-TV-Backgrounds. Unzip this folder to: Retroarch/shaders/</p>
-<p>7- Open Retroarch and go to driver options (Settings&gt;Driver&gt;Video). Set the video driver to Vulkan. It also works with GLCore, but seems to be faster with Vulkan.</p>
-<p>Still in Retroach, go to Settings&gt;Video&gt;Scale. Set integer value scale to OFF Set the screen aspect ratio to match your monitor, for example 16: 9.</p>
+<p>6 - After downloading the TV Backgrounds pack, inside the .zip you will see a folder called Soqueroeu-TV-Backgrounds_V2.0. Unzip this folder to: Retroarch/shaders/</p>
+<p>7 - Open Retroarch and go to driver options (Settings&gt;Driver&gt;Video). Set the video driver to Vulkan. It also works with GLCore, but seems to be faster with Vulkan.</p>
+<p>8 - Still in Retroach, go to Settings&gt;Video&gt;Scale. Set integer value scale to OFF Set the screen aspect ratio to match your monitor, for example 16: 9.</p>
 <p>9 - With a game running, load a shader preset. Find presets in one of these directories:</p>
-<p>/Retroarch/shaders/ Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console</p>
-<p>/>Retroarch/shaders/ Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night</p>
+<p>/Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console</p>
+<p>/Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night</p>
 <p><strong>Note</strong>: A shader preset can take between 5 and 10 seconds to load. On first use, it may take a little longer because of the cache. Wait and trust!</p>
-<p>10 - If any background appears upside down, access the shader parameters and modify the Flip Viewport Vertical option, in the [FLIP & ROTATE] section. 
+<p>10 - If any background appears upside down, access the shader parameters and modify the Flip Viewport Vertical option, in the [FLIP & ROTATE] section.</p> 
 <p>11 - If you want to change shader parameters, you should know that MegaBezel offers several customization options. Once you have desired result, you can save preset to Core (active core), content directory or whole system. I recommend you save by applying to platform/console folder contents, as each system operates with different display resolutions and a customization may present unwanted results for some other core.</p>
-<p><br /><strong>IMPORTANT</strong>: When saving a preset, make sure you have the Simple Presets feature set to ON. This will save a preset that has a reference to the preset you loaded, along with any parameter changes you made. This is what will keep your presets loading correctly when the shader is updated in the future.<br />Have a good time!</p>
+<p><strong>IMPORTANT</strong>: When saving a preset, make sure you have the Simple Presets feature set to ON. This will save a preset that has a reference to the preset you loaded, along with any parameter changes you made. This is what will keep your presets loading correctly when the shader is updated in the future.</p> 
+
+<p><strong>Have a good time!</strong></p>
