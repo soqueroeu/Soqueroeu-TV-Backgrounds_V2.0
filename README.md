@@ -21,23 +21,21 @@
 <li>All backgrouns 16:9 @ 3840x2160 (4K) png format</li>
 <li>Day and night presets for a comfortable experience </li>
 <li>No need for additional advanced preset adjustments</li>
-<li>Flat and curve screen presets</li>
-<li>Some graphics have color variations</li>
-<li>Generic graphics for systems without their own TV </li>  
+<li>Flat and curve screen presets (NEW)</li>
+<li>Some graphics have color variations (NEW)</li>
+<li>Generic graphics for systems without their own TV (NEW) </li>  
 </ul>
 
 ---------------
 <h3><strong>How to use these backgrounds? </strong></h3>
-<p>This guide assumes that you already use Mega Bezel shaders. If you haven't used these special shaders yet, look for additional information further down in this document for first-time instructions. 
+<p>This guide assumes that you already use Mega Bezel shaders. It means you must have the Mega Bezel shader pack previously installed. If you haven't used these special shaders yet, look for additional information further down in this document for first-time instructions. 
 
 These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Standard version of Mega Bezel. Please note, there are no presets with Advanced parameter in this package.</p>
 Shader presets use relative path. You can then unzip this pack to any folder from the Retroarch root folder if you wish. If you choose a location other than this guide, consider the locations you determine to find shader presets. 
-<p><br />1 - Inside the downloaded .zip you will see a folder called Soqueroeu-TV-Backgrounds. Unzip this folder to:</p>
+<p><br />1 - Inside the downloaded .zip you will see a folder called Soqueroeu-TV-Backgrounds_V2.0. Unzip this folder to:</p>
 <p>Retroarch / shaders /</p>
 <p><br />2 - When a game is running, load a shader preset. Find presets at:</p>
-<p>Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console</p>
-<p><br />or</p>
-<p><br />Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console-Night</p>
+*Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console*  or   *Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console-Night*
 <h3><br />-----------------<br /><strong>Beginning Users</strong></h3>
 <p>If this is your first use of Mega Bezel shaders, here are the complete instructions:<br /><br />1 - You must have Retroarch 1.9.8 or later (you will not be able to load in previous versions).<br />2 - You will need Slang shaders previously installed in your Retroarch. Download them from Retroarch's update menu.</p>
 <p><br /><strong>NOTE</strong>: You will only be able to see the Slang shaders in the Retroarch download list if video drivers is set to Vulkan. It may be necessary to save changes and restart your Retroarch.</p>
