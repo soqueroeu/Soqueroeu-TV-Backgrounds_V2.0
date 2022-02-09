@@ -6,7 +6,11 @@
 <p>I tried to develop a wide variation of colors and shapes, so they wouldn&rsquo;t result repetitive. I hope people will enjoy playing games and customizing their experience with my assets.</p>
 <h2>What is Mega Bezel Reflection Shader?</h2>
 <p>This is a collection of special shaders with lots of customization possibilities, as well as beautiful real-time tube reflections! They were developed by <a href="https://forums.libretro.com/u/hyperspacemadness/summary">HyperSpaceMadness</a>, with feedback from many people who like old games. In my opinion, this is one of the biggest contributions to the retrogaming emulation scene.</p>
+<p>To learn more about Mega Bezel Shader and download, please visit HSM's Forum Libretro page:<br /><a href="https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1" rel="nofollow">https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</a> .</p
+<ul>
 <h2>Requirements</h2>
+</ul>
+
 <ul>
 <li>Retroarch 1.9.8 or later with simple presets enabled</li>
 <li>Slang shaders previously installed in your Retroarch (download from Retroarch&rsquo;s update menu).</li>
@@ -17,16 +21,17 @@
 <li>All backgrouns 16:9 @ 3840x2160 (4K) png format</li>
 <li>Day and night presets for a comfortable experience </li>
 <li>No need for additional advanced preset adjustments</li>
+<li>Flat and curve screen presets</li>
+<li>Some graphics have color variations</li>
+<li>Generic graphics for systems without their own TV </li>  
 </ul>
 
-
-
-<p>To learn more about Mega Bezel Shader, please visit HSM's Forum Libretro page:<br /><a href="https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1" rel="nofollow">https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1</a> .</p
-
-  ---------------
+---------------
 <h3><strong>How to use these backgrounds? </strong></h3>
-<p>This guide assumes that you already use Mega Bezel shaders. If you haven't used these special shaders yet, look for additional information further down in this document for first-time instructions. These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Standard version of Mega Bezel. Please note, there are no presets with Advanced parameter in this package.</p>
-Note: Shader presets are using relative path. You can then unzip this pack to any folder from the Retroarch root folder if you wish. If you choose a location other than this guide, consider the locations you determine to find shader presets. 
+<p>This guide assumes that you already use Mega Bezel shaders. If you haven't used these special shaders yet, look for additional information further down in this document for first-time instructions. 
+
+These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Standard version of Mega Bezel. Please note, there are no presets with Advanced parameter in this package.</p>
+Shader presets use relative path. You can then unzip this pack to any folder from the Retroarch root folder if you wish. If you choose a location other than this guide, consider the locations you determine to find shader presets. 
 <p><br />1 - Inside the downloaded .zip you will see a folder called Soqueroeu-TV-Backgrounds. Unzip this folder to:</p>
 <p>Retroarch / shaders /</p>
 <p><br />2 - When a game is running, load a shader preset. Find presets at:</p>
