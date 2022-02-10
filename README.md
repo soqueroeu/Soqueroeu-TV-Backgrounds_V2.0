@@ -37,8 +37,6 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 <p> Once applied, a shader preset might look like this:
 
 ![](/Screenshots/FDS_Akumajou_Dracula.png?raw=true)
-  
-Adventure_Island_(USA)-220210-202358.png
 
 -----------------------------------
 <h2>Beginning Users</h2>
