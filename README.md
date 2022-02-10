@@ -1,5 +1,5 @@
 # Soqueroeu TV Backgrounds
-<h2>What is SOQUEREU - Mega Bezel TV Backgrounds?</h2>
+<h2>What is SOQUEREOU - Mega Bezel TV Backgrounds?</h2>
 <p>My TV backgrounds are meant to be used with Retroarch. They are not conventional screen overlays: included presets automatically load configurations for Mega Bezel Reflection shader to obtain maximum retro-feeling. In fact, they are designed to work as an addon to the shader and cannot be used standalone like standard overlays as they don&rsquo;t have any trasparent region for tube.</p><h2>Why?</h2>
 <p>My idea is to develop special backgrounds to be used while playing close to big screens. Taking inspiration from other designers projects, I started creating my own backgrounds featuring simple TV images. They are intended to as little space for the image tube as possible, bringing comfort for those who play close to big screens.</p><p>I tried to develop a wide variation of colors and shapes, so they wouldn&rsquo;t result repetitive. I hope people will enjoy playing games and customizing their experience with my assets.</p><h2>What is Mega Bezel Reflection Shader?</h2>
 
