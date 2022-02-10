@@ -34,7 +34,7 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 *Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console* </p>
 *Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console-Night*</p>
 
-![](/Screenshots/Adventure Island (USA)-220210-202358.png?raw=true)
+![](/Screenshots/Adventure_Island_(USA)-220210-202358.png?raw=true)
 
 -----------------------------------
 <h2>Beginning Users</h2>
