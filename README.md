@@ -34,9 +34,7 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 *Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console* </p>
 *Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console-Night*</p>
 
-<p> Once applied, a shader preset might look like this:
-
-![](/Screenshots/FDS_Akumajou_Dracula.png?raw=true)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 -----------------------------------
 <h2>Beginning Users</h2>
