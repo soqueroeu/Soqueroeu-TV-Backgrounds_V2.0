@@ -40,7 +40,7 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 
 -----------------------------------
 <h2>Beginning Users</h2>
-<p>If this is your first use of Mega Bezel shaders, here the complete instructions:
+<p>if it's your first experience  with Mega Bezel Shaders, here the complete instructions:
 
 **1** - You must have Retroarch 1.9.8 or later (you will not be able to load in previous versions).</p>
 
