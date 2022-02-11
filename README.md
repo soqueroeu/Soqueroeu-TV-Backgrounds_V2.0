@@ -14,7 +14,7 @@ To see more about Mega Bezel Shader, please visit  [MegaBezel Libretro page.](ht
 </ul>
 <h2>Features</h2>
 <ul>
-<li>All backgrouns 16:9 @ 3840x2160 (4K) png format</li><li>Day and night presets for a comfortable experience </li><li>No need for additional advanced preset adjustments</li><li>Flat and curve screen presets (NEW)</li><li>Some graphics have color variations (NEW)</li><li>Generic graphics for systems without their own TV (NEW) </li>
+<li>All backgrouns 16:9 @ 3840x2160 (4K) png format</li><li>Day and night presets for a comfortable experience </li><li>No need for additional advanced preset adjustments.</li> <li>Flat and curve screen presets (NEW)</li><li>Some graphics have color variations (NEW)</li><li>Generic graphics for systems without their own TV (NEW) </li>
 </ul>
 
 ---------------
@@ -42,7 +42,7 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 <h2>Beginning Users</h2>
 <p>If this is your first use of Mega Bezel shaders, here are the complete instructions:
 
-**1** - You must have Retroarch 1.9.8 or later (you will not be able to load in previous versions)
+**1** - You must have Retroarch 1.9.8 or later (you will not be able to load in previous versions).</p>
 
 **2** - You will need Slang shaders previously installed in your Retroarch. Download them from Retroarch's update menu.</p>
 <p><strong>NOTE</strong>: You will only be able to see the Slang Shaders in the Retroarch download list if video drivers is set to Vulkan. It may be necessary to save changes and restart your Retroarch.</p>
