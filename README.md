@@ -40,7 +40,7 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 
 -----------------------------------
 <h2>Beginning Users</h2>
-<p>If this is your first use of Mega Bezel shaders, here are the complete instructions:
+<p>If this is your first use of Mega Bezel shaders, here the complete instructions:
 
 **1** - You must have Retroarch 1.9.8 or later (you will not be able to load in previous versions).</p>
 
@@ -57,7 +57,7 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 
 **7** - Open Retroarch and go to driver options (Settings&gt;Driver&gt;Video). Set the video driver to Vulkan. It also works with GLCore, but seems to be faster with Vulkan.</p>
 
-**8** - Still in Retroach, go to Settings&gt;Video&gt;Scale. Set integer value scale to OFF Set the screen aspect ratio to match your monitor, for example 16: 9.</p>
+**8** - Still in Retroarch, go to Settings&gt;Video&gt;Scale. Set integer value scale to OFF Set the screen aspect ratio to match your monitor, for example 16: 9.</p>
 
 **9** - With a game running, load a shader preset. Find presets in one of these directories:</p>
 */Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console*</p>
