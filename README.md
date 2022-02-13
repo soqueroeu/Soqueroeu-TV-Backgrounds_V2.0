@@ -26,7 +26,7 @@ To see more about Mega Bezel Shader, please visit  [MegaBezel page.](https://for
 </ul>
 
 
-**If you want the old shader pack, please visit** [**Soqueroeu-TV-Backgrounds**](https://github.com/soqueroeu/Soqueroeu-TV-Backgrounds)
+**If you want the old pack, please visit** [**Soqueroeu-TV-Backgrounds**](https://github.com/soqueroeu/Soqueroeu-TV-Backgrounds)
 
 ---------------
 <h2>How to use these backgrounds?</h2>
