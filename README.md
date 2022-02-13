@@ -49,6 +49,9 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 
 ![](/Screenshots/Adventure_Island_(USA)-220210-202358.png?raw=true)
 
+<p><strong>NOTE</strong>: Some shader generated bezels are combined with a bezel built into the graphic. If you want more freedom to create your own bezel, you can use "solid" graphics available for some 
+of them. This may require editing the file paths in the preset.
+
 -----------------------------------
 <h2>Beginning Users</h2>
 <p>if it's your first experience  with Mega Bezel Shaders, here the complete instructions:
