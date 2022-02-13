@@ -14,12 +14,20 @@ To see more about Mega Bezel Shader, please visit  [MegaBezel Libretro page.](ht
 </ul>
 <h2>Features</h2>
 <ul>
-<li>All backgrouns 16:9 @ 3840x2160 (4K) png format</li><li>Day and night presets for a comfortable experience </li><li>No need for additional advanced preset adjustments.</li> <li>Flat and curve screen presets (NEW)</li><li>Some graphics have color variations (NEW)</li><li>Generic graphics for systems without their own TV (NEW) </li>
+<li>All backgrouns 16:9 @ 3840x2160 (4K) png format;</li>
+<li>Day and night presets for a comfortable experience (need normal preset for reference);</li>
+<li>No need for additional advanced preset adjustments;</li> 
+<li>Flat and curve screen presets (NEW);</li>
+<li>Some graphics have color variations (NEW);</li>
+<li>Generic graphics for systems without their own TV (NEW);</li>
+<li>Added Nintendo Wii 16x9 preset (NEW);</li>
+<li>Added Sega Dreamcast preset (NEW);</li>  
 </ul>
 
+*If you still want the old shader pack, please visit [Soqueroeu-TV-Backgrounds.](https://github.com/soqueroeu/Soqueroeu-TV-Backgrounds)
 ---------------
 <h2>How to use these backgrounds?</h2>
-<p>This guide assumes that you already use Mega Bezel shaders. It means you must have the Mega Bezel shader pack previously installed. If you haven't used these special shaders yet, look for additional information further down in this document for first-time instructions. 
+<p>This guide assumes that you already use Mega Bezel shaders. It means you must have the Mega Bezel shader pack previously installed. If you haven't used these special shaders yet, look for additional information further down in this document. 
 
 These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Standard version of Mega Bezel. Please note, there are no presets with Advanced parameter in this package.
 Shader presets use relative path. You can then unzip this pack to any folder from the Retroarch root folder if you wish. If you choose a location other than this guide, consider the locations you determine to find shader presets. </p>
