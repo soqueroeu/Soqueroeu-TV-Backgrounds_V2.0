@@ -80,5 +80,5 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 
 **11** - If you want to change shader parameters, you should know that MegaBezel offers several customization options. Once you have desired result, you can save preset to Core (active core), content directory or whole system. I recommend you save by applying to platform/console folder contents, as each system operates with different display resolutions and a customization may present unwanted results for some other core.</p><p><strong>IMPORTANT</strong>: When saving a preset, make sure you have the Simple Presets feature set to ON. This will save a preset that has a reference to the preset you loaded, along with any parameter changes you made. This is what will keep your presets loading correctly when the shader is updated in the future.</p> 
 
-<p><strong>Have a good time!</strong></p>
+<p><strong>Enjoy yourself!</strong></p>
 
