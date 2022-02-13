@@ -16,7 +16,7 @@ To see more about Mega Bezel Shader, please visit  [MegaBezel Libretro page.](ht
 <h2>Features</h2>
 <ul>
 <li>All backgrouns 16:9 @ 3840x2160 (4K) png format;</li>
-<li>Day and night presets for a comfortable experience (need normal preset for reference);</li>
+<li>Day and night presets for a comfortable experience (Night need normal preset for reference);</li>
 <li>No need for additional advanced preset adjustments;</li> 
 <li>Flat and curve screen presets (NEW);</li>
 <li>Some graphics have color variations (NEW);</li>
@@ -41,9 +41,9 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 
 
 <p>2 - When a game is running, load a shader preset. Find presets in one of these directories:
-
-*Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console* </p>
-*Retroarch/shaders/Soqueroeu-TV-Backgrounds/presets/TV-Console-Night*</p>
+ 
+*Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console*</p>
+*Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night*</p>
 
 **Once applied, a shader preset might look like this**: 
 
@@ -64,11 +64,11 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 
 **5** - After downloading Mega Bezel pack, see inside the .zip there is a folder called bezel. Copy this folder into the following directory: *Retroarch/shaders/shaders_slang*.</p>
 
-**6** - After downloading the TV Backgrounds pack, inside the .zip you will see a folder called Soqueroeu-TV-Backgrounds_V2.0. Unzip this folder to: Retroarch/shaders/</p>
+**6** - After downloading the TV Backgrounds pack, inside the .zip you will see a folder called Soqueroeu-TV-Backgrounds_V2.0. Unzip this folder to: *Retroarch/shaders*.</p>
 
 **7** - Open Retroarch and go to driver options (Settings&gt;Driver&gt;Video). Set the video driver to Vulkan. It also works with GLCore, but seems to be faster with Vulkan.</p>
 
-**8** - Still in Retroarch, go to Settings&gt;Video&gt;Scale. Set integer value scale to OFF Set the screen aspect ratio to match your monitor, for example 16: 9.</p>
+**8** - Still in Retroarch, go to Settings&gt;Video&gt;Scale. Set integer value scale to OFF. Set the screen aspect ratio to match your monitor, for example 16: 9.</p>
 
 **9** - With a game running, load a shader preset. Find presets in one of these directories:</p>
 */Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console*</p>
