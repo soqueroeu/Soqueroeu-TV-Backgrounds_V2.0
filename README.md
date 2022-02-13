@@ -5,7 +5,7 @@
 
 <p>This is a collection of special shaders with lots of customization possibilities, as well as beautiful real-time tube reflections! They were developed by <a href="https://forums.libretro.com/u/hyperspacemadness/summary">HyperSpaceMadness</a>, with retrogamer's feedback. In my opinion, this is one of the biggest contributions to the retrogaming emulation scene.</p>
 
-To see more about Mega Bezel Shader, please visit  [MegaBezel Libretro page.](https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1)
+To see more about Mega Bezel Shader, please visit  [MegaBezel page.](https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1)
 
 
 <h2>Requirements</h2></ul><ul>
@@ -58,7 +58,7 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 **2** - You will need Slang shaders previously installed in your Retroarch. Download them from Retroarch's update menu.</p>
 <p><strong>NOTE</strong>: You will only be able to see the Slang Shaders in the Retroarch download list if video drivers is set to Vulkan. It may be necessary to save changes and restart your Retroarch.</p>
 
-**3** - You will need Shader Mega Bezel pack. Find the links on the [**MegaBezel Libretro page**](https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1)
+**3** - You will need Shader Mega Bezel pack. Find the links on the [**MegaBezel page**](https://forums.libretro.com/t/hsm-mega-bezel-reflection-shader-feedback-and-updates/25512/1)
 
 **4** - If you have previous versions of Mega Bezel installed, you need to delete the old shader pack. Do not overwrite files, this can cause crashes.</p>
 
