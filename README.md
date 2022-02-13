@@ -83,5 +83,14 @@ of them. This may require editing the file paths in the preset.
 
 **11** - If you want to change shader parameters, you should know that MegaBezel offers several customization options. Once you have desired result, you can save preset to Core (active core), content directory or whole system. I recommend you save by applying to platform/console folder contents, as each system operates with different display resolutions and a customization may present unwanted results for some other core.</p><p><strong>IMPORTANT</strong>: When saving a preset, make sure you have the Simple Presets feature set to ON. This will save a preset that has a reference to the preset you loaded, along with any parameter changes you made. This is what will keep your presets loading correctly when the shader is updated in the future.</p> 
 
-<p><strong>Enjoy yourself!</strong></p>
+
+
+---------------------------------------------
+
+<p><strong>AGREEMENT</strong></p>
+This pack is free. You should not pay for anything related to this graphics pack and shader preset.
+You may distribute and reproduce part from this content, as long as you give credit to the authors involved.
+You may not profit from the sale of products that contain material in this package without the author's prior permission. 
+
+
 
