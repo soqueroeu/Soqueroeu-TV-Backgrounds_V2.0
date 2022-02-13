@@ -63,7 +63,7 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 */Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console*</p>
 */Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Nigh*t</p>
 
-<p><strong>Note</strong>: A shader preset can take between 5 and 10 seconds to load. On first use, it may take a little longer because cache. Wait and trust!</p>
+<p><strong>Note</strong>: A shader preset can take between 5 and 10 seconds to load. On first use, small stutters may occur when navigating through the parameter menus. The loading time can also be a little longer. This happens because the shader is caching the changes. Wait and trust!</p>
 
 **10** - If any background appears upside down, access the shader parameters and modify the Flip Viewport Vertical option, in the [FLIP & ROTATE] section.</p>
 
