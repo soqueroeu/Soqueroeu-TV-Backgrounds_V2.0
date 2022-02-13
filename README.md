@@ -26,7 +26,8 @@ To see more about Mega Bezel Shader, please visit  [MegaBezel Libretro page.](ht
 </ul>
 
 
-If you still want the old shader pack, please visit:  [**Soqueroeu-TV-Backgrounds**](https://github.com/soqueroeu/Soqueroeu-TV-Backgrounds) 
+**If you want the old shader pack, please visit** [**Soqueroeu-TV-Backgrounds**](https://github.com/soqueroeu/Soqueroeu-TV-Backgrounds)
+
 ---------------
 <h2>How to use these backgrounds?</h2>
 <p>This guide assumes that you already use Mega Bezel shaders. It means you must have the Mega Bezel shader pack previously installed. If you haven't used these special shaders yet, look for additional information further down in this document. 
