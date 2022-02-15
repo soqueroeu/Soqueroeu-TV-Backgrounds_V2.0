@@ -44,7 +44,7 @@ Retroarch/shaders/Mega_Bezel_Community/Soqueroeu-TV-Backgrounds_V2.0
         /presets
 
 ````
-
+----------------
 <h2>How to use these backgrounds?</h2>
 <p>This guide assumes that you already use Mega Bezel shaders. It means you must have the Mega Bezel shader pack previously installed. If you haven't used these special shaders yet, look for additional information further down in this document. 
 
