@@ -68,7 +68,7 @@ Shader presets use relative path. You can then unzip this pack to any folder fro
 
 -----------------------------------
 <h2>Git Clone Alternative</h2>
-You can install everything to a local clone and update using the following method:
+<p>You can install everything to a local clone and update using the following method:
 <li>Install Git from https://git-scm.com/downloads using the default settings.
 <li>Enter the "/Retroarch/shaders" folder and create a "Mega_Bezel_Community" folder if one does not exist.
 <li>Enter the "Retroarch/shaders/Mega_Bezel_Community" folder and from the command-line run:
