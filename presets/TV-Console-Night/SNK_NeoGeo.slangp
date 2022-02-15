@@ -1,4 +1,4 @@
-#reference ":/Shaders/Soqueroeu/presets/TV-Console/SNK_NeoGeo.slangp
+#reference "../TV-Console/SNK_NeoGeo.slangp
 
 HSM_AMBIENT_LIGHTING_OPACITY = "85.000000"
 HSM_AMBIENT_LIGHTING_HUE = "140.000000"

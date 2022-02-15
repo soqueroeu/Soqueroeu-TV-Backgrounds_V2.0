@@ -1,4 +1,4 @@
-#reference ":/Shaders/Soqueroeu/presets/TV-Console/Sega_SG-1000.slangp
+#reference "../TV-Console/Sega_SG-1000.slangp
 
 HSM_AMBIENT_LIGHTING_OPACITY = "95.000000"
 HSM_AMBIENT_LIGHTING_HUE = "140.000000"

@@ -1,4 +1,4 @@
-#reference ":/Shaders/Soqueroeu/presets/TV-Console/NEC_PC-FX-[FLAT].slangp
+#reference "../TV-Console/NEC_PC-FX-[FLAT].slangp
 
 HSM_AMBIENT_LIGHTING_OPACITY = "95.000000"
 HSM_AMBIENT_LIGHTING_HUE = "140.000000"
