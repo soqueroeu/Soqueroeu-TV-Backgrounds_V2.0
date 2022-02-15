@@ -16,7 +16,7 @@ To see more about Mega Bezel Shader, please visit  [MegaBezel page.](https://for
 <h2>Features</h2>
 <ul>
 <li>All backgrouns 16:9 @ 3840x2160 (4K) png format;</li>
-<li>Day and night presets for a comfortable experience (Night need normal preset for reference);</li>
+<li>Day and night presets for a comfortable experience (night need normal preset for reference);</li>
 <li>No need for additional advanced preset adjustments;</li> 
 <li>Flat and curve screen presets (NEW);</li>
 <li>Some graphics have color variations (NEW);</li>
@@ -29,30 +29,59 @@ To see more about Mega Bezel Shader, please visit  [MegaBezel page.](https://for
 **If you want the old pack, please visit** [**Soqueroeu-TV-Backgrounds**](https://github.com/soqueroeu/Soqueroeu-TV-Backgrounds)
 
 ---------------
+
+<h2>Mega_Bezel_Community</h2>
+
+**Pay attention to the path presets!**
+
+In a move to normalize installations, and keep the shaders folder clean and tidy, the Mega Bezel artistic community has agreed to make it possible to install our various releases in a "Mega_Bezel_Community" folder (inside shader folder).
+
+So, we are all now using relative paths to our assets and absolute paths to HyperSpaceMadness's base presets. This means that adoption of the standard is not mandatory. But, if you decide to adopt the new standard, maybe you will need to update your paths. Therefore, the folder structure I have adopted is:
+
+````
+Retroarch/shaders/Mega_Bezel_Community/Soqueroeu-TV-Backgrounds_V2.0
+    	/img
+        /presets
+
+````
+
 <h2>How to use these backgrounds?</h2>
 <p>This guide assumes that you already use Mega Bezel shaders. It means you must have the Mega Bezel shader pack previously installed. If you haven't used these special shaders yet, look for additional information further down in this document. 
 
-These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Standard version of Mega Bezel. Please note, there are no presets with Advanced parameter in this package.
-Shader presets use relative path. You can then unzip this pack to any folder from the Retroarch root folder if you wish. If you choose a location other than this guide, consider the locations you determine to find shader presets. </p>
+These backgrouns are in 16:9 @ 3840x2160 format. Presets will always use the Standard Base preset of Mega Bezel. Please note, there are no Advanced presets in this package.
+Shader presets use relative path. You can then unzip this pack to any folder from the Retroarch root folder if you wish. If you choose a location other than this guide, consider the locations you determine to find shader presets.</p>
 
-<p>1 - Inside the downloaded .zip you will see a folder called Soqueroeu-TV-Backgrounds_V2.0. Unzip this folder to 
+<p>1 - Assuming you chose to download the package via the "Download Zip" option, I recommend you rename the extracted folder to "Soqueroeu-TV-Backgrounds_V2.0" and place it in the Mega_Bezel_Community folder.  It will look like this: :  
 
-*Retroarch/shaders/* </p>
-
+*Retroarch/shaders/Mega_Bezel_Community/Soqueroeu-TV-Backgrounds_V2.0* </p>
 
 <p>2 - When a game is running, load a shader preset. Find presets in one of these directories:
  
-*Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console*</p>
-*Retroarch/shaders/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night*</p>
+*Retroarch/shaders/Mega_Bezel_Community/Soqueroeu-TV-Backgrounds_V2.0/presets/TV-Console*</p>
+*Retroarch/shaders/Mega_Bezel_CommunitySoqueroeu-TV-Backgrounds_V2.0/presets/TV-Console-Night*</p>
 
 **Once applied, a shader preset might look like this**: 
 
 ![](/Screenshots/Adventure_Island_(USA)-220210-202358.png?raw=true)
 
-<p><strong>NOTE</strong>: Some shader generated bezels are combined with a bezel built into the graphic. If you want more freedom to create your own bezel, you can use "solid" graphics available for some 
-of them. This may require editing the file paths in the preset.
+<p><strong>NOTE</strong>: Some shader generated bezels are combined with a bezel built into the graphic. If you want more freedom to create your own bezel, you can use "solid" graphics available for some of them. This may require editing the file paths in the preset.
 
 -----------------------------------
+<h2>Git Clone Alternative</h2>
+You can install everything to a local clone and update using the following method:
+<li>Install Git from https://git-scm.com/downloads using the default settings.
+<li>Enter the "/Retroarch/shaders" folder and create a "Mega_Bezel_Community" folder if one does not exist.
+<li>Enter the "Retroarch/shaders/Mega_Bezel_Community" folder and from the command-line run:
+<p>
+
+````
+git clone https://github.com/soqueroeu/Soqueroeu-TV-Backgrounds_V2.0
+````
+To update, go into the "Soqueroeu-TV-Backgrounds_V2.0" folder, right click mouse to show Git Menu and from command-line run:
+````
+git pull
+````
+-----------------------
 <h2>Beginning Users</h2>
 <p>if it's your first experience  with Mega Bezel Shaders, here the complete instructions:
 
@@ -67,7 +96,9 @@ of them. This may require editing the file paths in the preset.
 
 **5** - After downloading Mega Bezel pack, see inside the .zip there is a folder called bezel. Copy this folder into the following directory: *Retroarch/shaders/shaders_slang*.</p>
 
-**6** - After downloading the TV Backgrounds pack, inside the .zip you will see a folder called Soqueroeu-TV-Backgrounds_V2.0. Unzip this folder to: *Retroarch/shaders*.</p>
+**6** - Assuming you chose to download my backgrounds package via the "Download Zip" option, I recommend you rename the extracted folder to "Soqueroeu-TV-Backgrounds_V2.0" and place it in the Mega_Bezel_Community folder. Create the folder if it doesn't exist. It will look like this:
+
+*Retroarch/shaders/Mega_Bezel_Community/Soqueroeu-TV-Backgrounds_V2.0* 
 
 **7** - Open Retroarch and go to driver options (Settings&gt;Driver&gt;Video). Set the video driver to Vulkan. It also works with GLCore, but seems to be faster with Vulkan.</p>
 
