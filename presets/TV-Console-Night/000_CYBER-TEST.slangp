@@ -1,0 +1,47 @@
+#reference "../TV-Console/Nintendo_NES.slangp"
+
+post_br = "1.800000"
+
+g_crtgamut = "1.000000"
+g_hue_degrees = "0.000000"
+wp_temperature = "6500.000000"
+g_sat = "0.230000"
+scans = "0.000000"
+GDV_NOISE_ON = "1.000000"
+
+glow = "0.000000"
+
+masksize = "2.000000"
+
+
+GAMMA_INPUT = "2.100000"
+gamma_out = "2.500000"
+
+
+bloom = "0.150000"
+halation = "0.050000"
+gsl = "2.000000"
+scanline1 = "9.000000"
+scanline2 = "9.000000"
+beam_min = "1.350000"
+beam_max = "1.300000"
+
+shadowMask = "6.000000"
+maskstr = "1.000000"
+GDV_DECONVERGENCE_ON = "1.000000"
+
+addnoised = "0.180000"
+noiseresd = "1.000000"
+
+
+HSM_NON_INTEGER_SCALE = "61.570278"
+HSM_CURVATURE_2D_SCALE_LONG_AXIS = "10.000000"
+HSM_CURVATURE_2D_SCALE_SHORT_AXIS = "5.000000"
+HSM_BZL_USE_INDEPENDENT_SCALE = "1.000000"
+HSM_BZL_INDEPENDENT_SCALE = "60.570343"
+HSM_BZL_USE_INDEPENDENT_CURVATURE = "1.000000"
+
+
+
+ 
+
