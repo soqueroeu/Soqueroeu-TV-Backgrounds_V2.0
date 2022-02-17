@@ -31,4 +31,4 @@ post_br = "120.000000"
 
  
 BackgroundImage = "../../img/Nintendo_SuperGameBoy/SuperGameBoy.png"
-LEDImage = "../../img/Nintendo_SuperGameBoy/SuperGameBoy_LED.png"
+LEDImage = "../../img/Nintendo_SuperGameBoy/SuperGameBoy_Led.png"
