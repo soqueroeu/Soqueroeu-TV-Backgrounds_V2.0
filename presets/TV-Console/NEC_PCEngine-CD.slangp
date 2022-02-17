@@ -40,4 +40,4 @@ post_br = "120.000000"
 
  
 BackgroundImage = "../../img/NEC_PCEngine-CD/PCECD.png"
-LEDImage = "../../img/NEC_PCEngine-CD/PCECD_LED.png"
+LEDImage = "../../img/NEC_PCEngine-CD/PCECD_Led.png"
