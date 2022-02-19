@@ -11,7 +11,7 @@ To see more about Mega Bezel Shader, please visit  [MegaBezel page.](https://for
 <h2>Requirements for V2.0</h2></ul><ul>
 <li>Retroarch 1.9.8 or later with simple presets enabled.</li>
 <li>Slang shaders previously installed in your Retroarch (download from Retroarch&rsquo;s update menu).</li>
-<li>Shader Mega Bezel pack V 0.9.097 (2022-01-05 Rev 2) or later.</li>
+<li>Shader Mega Bezel pack - Update V 0.9.103 (2022-02-15 Rev 1) or later.</li>
 </ul>
 <h2>Features</h2>
 <ul>
