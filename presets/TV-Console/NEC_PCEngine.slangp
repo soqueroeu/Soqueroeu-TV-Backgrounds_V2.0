@@ -1,5 +1,6 @@
 #reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp"
 
+HSM_BZL_BRIGHTNESS = "44.000000"
 HSM_BZL_COLOR_HUE = "220.000000"
 HSM_BZL_COLOR_SATURATION = "4.000000"
 HSM_BZL_COLOR_VALUE = "30.000048"
