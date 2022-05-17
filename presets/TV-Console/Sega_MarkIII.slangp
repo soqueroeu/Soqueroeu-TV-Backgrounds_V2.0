@@ -50,5 +50,5 @@ g_gamma_out = "2.850000"
 post_br = "1.140000"
 
  
-BackgroundImage = "../../img/Sega_MakIII/MakIII.png"
-LEDImage = "../../img/Sega_MakIII/MakIII_Led.png"
+BackgroundImage = "../../img/Sega_MarkIII/MarkIII.png"
+LEDImage = "../../img/Sega_MarkIII/MarkIII_Led.png"
