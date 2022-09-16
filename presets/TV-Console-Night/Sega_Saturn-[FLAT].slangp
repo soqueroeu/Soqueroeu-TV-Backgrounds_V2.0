@@ -1,4 +1,4 @@
-#reference "../TV-Console/Sega_Saturn-[FLAT].slangp
+#reference "../TV-Console/Sega_Saturn-[FLAT].slangp"
 
 HSM_AMBIENT_LIGHTING_OPACITY = "95.000000"
 HSM_AMBIENT_LIGHTING_HUE = "140.000000"

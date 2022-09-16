@@ -1,4 +1,4 @@
-#reference "../TV-Console/00_Generic_03-[FLAT].slangp
+#reference "../TV-Console/00_Generic_03-[FLAT].slangp"
 
 HSM_AMBIENT_LIGHTING_OPACITY = "85.000000"
 HSM_AMBIENT_LIGHTING_HUE = "140.000000"

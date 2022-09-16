@@ -1,4 +1,4 @@
-#reference "../TV-Console/Atari_2600.slangp
+#reference "../TV-Console/Atari_2600.slangp"
 
 HSM_AMBIENT_LIGHTING_OPACITY = "85.000000"
 HSM_AMBIENT_LIGHTING_HUE = "140.000000"

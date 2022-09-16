@@ -1,4 +1,4 @@
-#reference "../TV-Console/Nintendo_Famicom_Black_Edition.slangp
+#reference "../TV-Console/Nintendo_Famicom_Black_Edition.slangp"
 
 HSM_AMBIENT_LIGHTING_OPACITY = "85.000000"
 HSM_AMBIENT_LIGHTING_HUE = "140.000000"

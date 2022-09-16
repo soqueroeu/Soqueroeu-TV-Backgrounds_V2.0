@@ -1,4 +1,4 @@
-#reference "../TV-Console/Nintendo_N64-[FLAT].slangp
+#reference "../TV-Console/Nintendo_N64-[FLAT].slangp"
 
 HSM_AMBIENT_LIGHTING_OPACITY = "85.000000"
 HSM_AMBIENT_LIGHTING_HUE = "140.000000"
