@@ -1,4 +1,4 @@
-#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp"
+#reference "../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp"
 
 
 HSM_BZL_COLOR_HUE = "208.000000"
@@ -9,7 +9,6 @@ HSM_BZL_HIGHLIGHT = "0.000000"
 HSM_BZL_NOISE = "4.000000"
 HSM_CURVATURE_2D_SCALE_LONG_AXIS = "5.000000"
 HSM_CURVATURE_2D_SCALE_SHORT_AXIS = "5.000000"
-HSM_FLIP_VIEWPORT_VERTICAL = "1.000000"
 HSM_FRM_INNER_EDGE_THICKNESS = "0.000000"
 HSM_FRM_OPACITY = "0.000000"
 HSM_FRM_SHADOW_OPACITY = "0.000000"

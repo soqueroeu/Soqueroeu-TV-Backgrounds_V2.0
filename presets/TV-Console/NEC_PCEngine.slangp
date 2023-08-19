@@ -1,4 +1,4 @@
-#reference "../../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp"
+#reference "../../../shaders_slang/bezel/Mega_Bezel/Presets/MBZ__3__STD.slangp"
 
 GDV_DECONVERGENCE_ON = "1.000000"
 HSM_BZL_BRIGHTNESS = "44.000000"
